@@ -1,479 +1,0 @@
-TDatabaseDemo
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Info.plist DatabaseDemo/DatabaseDemo-Info.plist
-cProcessPCH /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch.pth DatabaseDemo/DatabaseDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AppDelegate.o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/main.o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/DatabaseHelper.o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseHelper/DatabaseHelper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AddEmpRecordVC.o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableVC.o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableCell.o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/EmployeeListTableCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/DatabaseDemo normal i386
-cGenerateDSYMFile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app.dSYM /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/DatabaseDemo
-cCopyStringsFile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/en.lproj/InfoPlist.strings DatabaseDemo/en.lproj/InfoPlist.strings
-cCpResource DatabaseDemo/Default.png DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default.png
-cCpResource DatabaseDemo/Default@2x.png DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default@2x.png
-cCpResource DatabaseDemo/Default-568h@2x.png DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default-568h@2x.png
-cCpResource DatabaseFile/AdventureWorks.sqlite DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/AdventureWorks.sqlite
-cCpResource DatabaseFile/Goku_SSJ4.jpg DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Goku_SSJ4.jpg
-cCompileXIB /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.xib
-cCompileXIB /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/View.xib
-cTouch /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
-c00000000504916AD0000000000000110
-t1346967213
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c00000000504A97620000000000228FD0
-t1347065698
-s2265040
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c00000000504A977000000000003DCEF0
-t1347065712
-s4050672
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c00000000504A977000000000000015F7
-t1347065712
-s5623
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c00000000504A979B0000000000000E8D
-t1347065755
-s3725
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c00000000504A979E0000000000AB3D60
-t1347065758
-s11222368
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
-c00000000504A983A0000000000001B54
-t1347065914
-s6996
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/lib/libsqlite3.0.dylib
-c00000000504A984B00000000000D1F20
-t1347065931
-s859936
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/AppDelegate.h
-c00000000514989C400000000000001B3
-t1363773892
-s435
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/AppDelegate.m
-c00000000514989D40000000000000962
-t1363773908
-s2402
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/DatabaseDemo-Prefix.pch
-c000000005149898E0000000000000147
-t1363773838
-s327
-i<Availability.h>
-i<UIKit/UIKit.h>
-i<Foundation/Foundation.h>
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/Default-568h@2x.png
-c0000000050262AB100000000000048A2
-t1344678577
-s18594
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/Default.png
-c0000000050262AB1000000000000198C
-t1344678577
-s6540
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/Default@2x.png
-c0000000050262AB10000000000003EEB
-t1344678577
-s16107
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/en.lproj/InfoPlist.strings
-c000000005149898E000000000000002D
-t1363773838
-s45
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/main.m
-c000000005149898E0000000000000154
-t1363773838
-s340
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseFile/AdventureWorks.sqlite
-c00000000510B4EC90000000000010000
-t1359695561
-s65536
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseFile/Goku_SSJ4.jpg
-c00000000510B89280000000000013374
-t1359710504
-s78708
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseHelper/DatabaseHelper.h
-c00000000514986920000000000000514
-t1363773074
-s1300
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseHelper/DatabaseHelper.m
-c000000005149820C00000000000022CB
-t1363771916
-s8907
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AddEmpRecordVC.o
-t1363773937
-s97596
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AppDelegate.o
-t1363773937
-s93652
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/DatabaseDemo.LinkFileList
-c00000000514989EC0000000000000431
-t1363773932
-s1073
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/DatabaseHelper.o
-t1363773937
-s25520
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableCell.o
-t1363773937
-s73296
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableVC.o
-t1363773937
-s85920
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/main.o
-t1363773937
-s3340
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch.pth
-t1363773937
-s4840744
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app
-t1363773938
-s408
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app.dSYM
-t2
-s0
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/AddEmpRecordVC.nib
-t1363773938
-s2989
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/AdventureWorks.sqlite
-t1363773938
-s65536
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/DatabaseDemo
-t2
-s0
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default-568h@2x.png
-t1363773938
-s18594
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default.png
-t1363773938
-s6540
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default@2x.png
-t1363773938
-s16107
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Goku_SSJ4.jpg
-t1363773938
-s78708
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Info.plist
-t1363773932
-s737
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/PkgInfo
-t1363773932
-s8
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/View.nib
-t1363773938
-s1912
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/en.lproj/InfoPlist.strings
-t1363773938
-s42
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.h
-c00000000512C9AEA000000000000045F
-t1361877738
-s1119
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.m
-c00000000512C9AEA0000000000000C17
-t1361877738
-s3095
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.xib
-c00000000514986680000000000004656
-t1363773032
-s18006
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/EmployeeListTableCell.h
-c0000000051497BFD00000000000001AB
-t1363770365
-s427
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/EmployeeListTableCell.m
-c0000000051497BE500000000000002D2
-t1363770341
-s722
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/View.xib
-c0000000051497C880000000000002A44
-t1363770504
-s10820
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableVC.h
-c0000000051497DC600000000000001C6
-t1363770822
-s454
-
-N/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableVC.m
-c000000005149866800000000000014F1
-t1363773032
-s5361
-
-NDatabaseDemo/DatabaseDemo-Info.plist
-c00000000514989930000000000000429
-t1363773843
-s1065
-
-CBuild AST from /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/AppDelegate.m
-r0
-
-CBuild AST from /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/main.m
-r0
-
-CBuild AST from /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseHelper/DatabaseHelper.m
-r0
-
-CBuild AST from /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.m
-r0
-
-CBuild AST from /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/EmployeeListTableCell.m
-r0
-
-CBuild AST from /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableVC.m
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies8029b394c1f9b641^4d84d994c1f9b641^---0#1#0#--18"Check dependencies36"35D232A7-C4F9-4224-8996-48CB4B1862C2-
-
-CCompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AddEmpRecordVC.o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385466737.609778
-e385466737.693887
-r1
-xCompileC
-xDerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AddEmpRecordVC.o
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.m89459c71c1f9b641^e8a2b171c1f9b641^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.m0000000000000000^4165"CompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AddEmpRecordVC.o ViewController/AddEmpRecordVC/AddEmpRecordVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-generated-files.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-own-target-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-project-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources -F/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch -MMD -MT dependencies -MF /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AddEmpRecordVC.d --serialize-diagnostics /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AddEmpRecordVC.dia -c /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.m -o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AddEmpRecordVC.o36"036109EF-FCA3-46B4-9B7D-D43CEA0012D5-
-
-CCompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AppDelegate.o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385466737.170502
-e385466737.552472
-r1
-xCompileC
-xDerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AppDelegate.o
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/AppDelegate.m1ac42b71c1f9b641^656f8d71c1f9b641^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/AppDelegate.m0000000000000000^4113"CompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AppDelegate.o DatabaseDemo/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-generated-files.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-own-target-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-project-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources -F/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch -MMD -MT dependencies -MF /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AppDelegate.dia -c /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/AppDelegate.m -o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/AppDelegate.o36"D6F3971B-ECAD-425C-884A-613AD7C5995B-
-
-CCompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/DatabaseHelper.o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseHelper/DatabaseHelper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385466737.553803
-e385466737.608384
-r1
-xCompileC
-xDerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/DatabaseHelper.o
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseHelper/DatabaseHelper.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseHelper/DatabaseHelper.m75e78d71c1f9b641^98c29b71c1f9b641^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseHelper/DatabaseHelper.m0000000000000000^4135"CompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/DatabaseHelper.o DatabaseHelper/DatabaseHelper.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-generated-files.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-own-target-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-project-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources -F/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch -MMD -MT dependencies -MF /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/DatabaseHelper.d --serialize-diagnostics /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/DatabaseHelper.dia -c /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseHelper/DatabaseHelper.m -o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/DatabaseHelper.o36"E024C6B7-7828-4DA1-B883-33478889E31F-
-
-CCompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableCell.o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/EmployeeListTableCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385466737.695399
-e385466737.750811
-r1
-xCompileC
-xDerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableCell.o
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/EmployeeListTableCell.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/EmployeeListTableCell.m4e26b271c1f9b641^b134c071c1f9b641^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/EmployeeListTableCell.m0000000000000000^4259"CompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableCell.o ViewController/DisplayEmpRecordVC/EmployeeListTableCell/EmployeeListTableCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-generated-files.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-own-target-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-project-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources -F/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch -MMD -MT dependencies -MF /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableCell.d --serialize-diagnostics /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableCell.dia -c /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/EmployeeListTableCell.m -o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableCell.o36"1E55E09A-A3B7-4823-AC07-B82C10FE7E60-
-
-CCompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableVC.o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385466737.752342
-e385466737.845318
-r1
-xCompileC
-xDerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableVC.o
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableVC.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableVC.mbbb9c071c1f9b641^e067d871c1f9b641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableVC.m0000000000000000^4203"CompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableVC.o ViewController/DisplayEmpRecordVC/EmployeeListTableVC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-generated-files.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-own-target-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-project-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources -F/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch -MMD -MT dependencies -MF /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableVC.d --serialize-diagnostics /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableVC.dia -c /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableVC.m -o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/EmployeeListTableVC.o36"461A2925-D460-42FA-B078-0E5FAD61749F-
-
-CCompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/main.o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385466737.170003
-e385466737.538707
-r1
-xCompileC
-xDerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/main.o
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/main.md6ac2b71c1f9b641^79ea8971c1f9b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/main.m0000000000000000^4071"CompileC DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/main.o DatabaseDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-generated-files.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-own-target-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-project-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources -F/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch -MMD -MT dependencies -MF /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/main.dia -c /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/main.m -o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/main.o36"4739D430-1CC6-4303-8361-B5F5A760FD28-
-
-CCompileXIB /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.xib
-s385466738.587580
-e385466738.691901
-r1
-xCompileXIB
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.xib
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compiling /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.xibfd859672c1f9b641^ad30b172c1f9b641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.xib0000000000000000^990"CompileXIB ViewController/AddEmpRecordVC/AddEmpRecordVC.xib    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/AddEmpRecordVC.nib /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/AddEmpRecordVC/AddEmpRecordVC.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"B3C7001F-84F4-4315-BBE6-E325971C8385-
-
-CCompileXIB /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/View.xib
-s385466738.693161
-e385466738.728963
-r1
-xCompileXIB
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/View.xib
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compiling /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/View.xibb188b172c1f9b641^0c21bb72c1f9b641^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/View.xib0000000000000000^1012"CompileXIB ViewController/DisplayEmpRecordVC/EmployeeListTableCell/View.xib    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/View.nib /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/ViewController/DisplayEmpRecordVC/EmployeeListTableCell/View.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"176CEE8C-BF4E-4AE5-8A82-5676768F5ECC-
-
-CCopyStringsFile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/en.lproj/InfoPlist.strings DatabaseDemo/en.lproj/InfoPlist.strings
-s385466738.498917
-e385466738.553936
-r1
-xCopyStringsFile
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/en.lproj/InfoPlist.strings
-xDatabaseDemo/en.lproj/InfoPlist.strings
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy DatabaseDemo/en.lproj/InfoPlist.strings03d17f72c1f9b641^f2ce8d72c1f9b641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/en.lproj/InfoPlist.strings0000000000000000^659"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/en.lproj/InfoPlist.strings DatabaseDemo/en.lproj/InfoPlist.strings    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/en.lproj -- DatabaseDemo/en.lproj/InfoPlist.strings36"E75EC915-7F04-424D-9AC7-A8E5E7BBBF77-
-
-CCpResource DatabaseDemo/Default-568h@2x.png DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default-568h@2x.png
-s385466738.565606
-e385466738.568791
-r1
-xCpResource
-xDatabaseDemo/Default-568h@2x.png
-xDerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default-568h@2x.png
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default-568h@2x.png76e09072c1f9b641^5e9f9172c1f9b641^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default-568h@2x.png000000000080d041^699"CpResource "DatabaseDemo/Default-568h@2x.png" "DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default-568h@2x.png"    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/Default-568h@2x.png" /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app36"302C05E1-8CEB-46C9-BA12-900C5DA330D1-
-
-CCpResource DatabaseDemo/Default.png DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default.png
-s385466738.555250
-e385466738.560098
-r1
-xCpResource
-xDatabaseDemo/Default.png
-xDerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default.png
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default.pngd9958e72c1f9b641^e5638f72c1f9b641^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default.png000000000080d041^669"CpResource DatabaseDemo/Default.png DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default.png    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/Default.png /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app36"23E1B8FE-F4A4-43E4-8EE8-52D2D752F7C0-
-
-CCpResource DatabaseDemo/Default@2x.png DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default@2x.png
-s385466738.561369
-e385466738.564393
-r1
-xCpResource
-xDatabaseDemo/Default@2x.png
-xDerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default@2x.png
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default@2x.pngefc58f72c1f9b641^857c9072c1f9b641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default@2x.png000000000080d041^684"CpResource "DatabaseDemo/Default@2x.png" "DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Default@2x.png"    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/Default@2x.png" /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app36"3A8AD358-0C77-4695-BC58-708E13EE857C-
-
-CCpResource DatabaseFile/AdventureWorks.sqlite DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/AdventureWorks.sqlite
-s385466738.570122
-e385466738.581480
-r1
-xCpResource
-xDatabaseFile/AdventureWorks.sqlite
-xDerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/AdventureWorks.sqlite
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/AdventureWorks.sqlitef20c9272c1f9b641^badc9472c1f9b641^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/AdventureWorks.sqlite000000000080d041^699"CpResource DatabaseFile/AdventureWorks.sqlite DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/AdventureWorks.sqlite    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseFile/AdventureWorks.sqlite /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app36"8B844192-CA84-429E-849C-D09323B04711-
-
-CCpResource DatabaseFile/Goku_SSJ4.jpg DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Goku_SSJ4.jpg
-s385466738.582787
-e385466738.586311
-r1
-xCpResource
-xDatabaseFile/Goku_SSJ4.jpg
-xDerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Goku_SSJ4.jpg
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Goku_SSJ4.jpg9a449572c1f9b641^76199672c1f9b641^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Goku_SSJ4.jpg000000000080d041^675"CpResource DatabaseFile/Goku_SSJ4.jpg DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Goku_SSJ4.jpg    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseFile/Goku_SSJ4.jpg /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app36"0C215EB6-DBF5-4E79-AE05-E4D17F49B52B-
-
-CGenerateDSYMFile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app.dSYM /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/DatabaseDemo
-s385466773.597764
-e385466773.685264
-r1
-xGenerateDSYMFile
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app.dSYM
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/DatabaseDemo
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Generating /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app.dSYM2b4e9995c1f9b641^2f6eaf95c1f9b641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app.dSYM000000000080d041^772"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/DatabaseDemo    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/DatabaseDemo -o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app.dSYM36"4E1B7DFB-6044-45D5-A551-821D2B07AFD4-
-
-CLd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/DatabaseDemo normal i386
-s385466772.879946
-e385466773.567378
-r1
-xLd
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/DatabaseDemo
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Link /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/DatabaseDemoaf5ae194c1f9b641^74419195c1f9b641^---0#0#0#--1359"Ld DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/DatabaseDemo normal i386    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator -F/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator -filelist /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/Objects-normal/i386/DatabaseDemo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -lsqlite3.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/DatabaseDemo36"A213FD11-4EA8-4968-807A-FEE972593DBF-
-
-CProcessInfoPlistFile /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Info.plist DatabaseDemo/DatabaseDemo-Info.plist
-s385466732.241756
-e385466732.257310
-r1
-xProcessInfoPlistFile
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Info.plist
-xDatabaseDemo/DatabaseDemo-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process DatabaseDemo/DatabaseDemo-Info.plist2a003e6cc1f9b641^7d20456cc1f9b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/DatabaseDemo-Info.plist0000000000000000^781"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Info.plist DatabaseDemo/DatabaseDemo-Info.plist    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DatabaseDemo/DatabaseDemo-Info.plist -genpkginfo /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app/Info.plist36"1A9426EC-50C6-481B-BD80-A845CC755A3F-
-
-CProcessPCH /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch.pth DatabaseDemo/DatabaseDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s385466732.265671
-e385466737.163046
-r1
-xProcessPCH
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch.pth
-xDatabaseDemo/DatabaseDemo-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile DatabaseDemo/DatabaseDemo-Prefix.pchd025446cc1f9b641^c7bd2971c1f9b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/DatabaseDemo-Prefix.pch0000000000000000^3963"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch.pth DatabaseDemo/DatabaseDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-generated-files.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-own-target-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-all-target-headers.hmap -iquote /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DatabaseDemo-project-headers.hmap -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources/i386 -I/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/DatabaseDemo.build/Debug-iphonesimulator/DatabaseDemo.build/DerivedSources -F/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch.dia -c /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DatabaseDemo/DatabaseDemo-Prefix.pch -o /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch.pth -MMD -MT dependencies -MF /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Intermediates/PrecompiledHeaders/DatabaseDemo-Prefix-fooaabmeeflprcbnbvxtjtotcuqr/DatabaseDemo-Prefix.pch.d36"B085809A-83C9-4B9D-8535-6439CBA3F7A5-
-
-CProcessPCH /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/DatabaseDemo/Index/PrecompiledHeaders/DatabaseDemo-Prefix-gamvrgohtnscvohkimkugywvpdyd_ast/DatabaseDemo-Prefix.pch.pth DatabaseDemo/DatabaseDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app
-s385466773.704490
-e385466773.731445
-r1
-xTouch
-x/Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Touch /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app016cb495c1f9b641^4f40bb95c1f9b641^---0#0#0#--462"Touch DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app    cd /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mayur/Desktop/Database/DBDemo/DatabaseDemo/DerivedData/Build/Products/Debug-iphonesimulator/DatabaseDemo.app36"38BF962B-7CA9-4C21-8216-C21F2FBCDB03-
-
